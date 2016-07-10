@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="militaryElite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/ExercisecInterfacesAndAbstraction/com/company/militaryElite.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
