@@ -22,7 +22,7 @@ public class Mission implements IMission{
     }
 
     private void setMissionState(String missionState) {
-        if (!missionState.equalsIgnoreCase("inProgress") && !missionState.equalsIgnoreCase("finished")){
+        if (!missionState.equals("inProgress") && !missionState.equals("Finished")){
             throw new IllegalArgumentException();
         }
         this.missionState = missionState;
